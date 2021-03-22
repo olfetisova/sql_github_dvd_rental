@@ -5,9 +5,7 @@ _23 October 2020_
 **Investigate a Relational Database**
 
 ### Description
-In this project, I used SQL to explore a database related to movie rentals. I wrote SQL code to run SQL queries and answered interesting questions about the database. As part of my project submission, I ran SQL queries and builded visualisations to showcase the output of my queries.
-
-In this project, I queried the Sakila DVD Rental database. The Sakila Database holds information about a company that rents movie DVDs.
+In this project, I queried the Sakila DVD Rental database. The Sakila Database holds information about a company that rents movie DVDs. I used SQL to explore a database related to movie rentals. I wrote SQL code to run SQL queries and answered interesting questions about the database. As part of my project submission, I ran SQL queries and builded visualisations to showcase the output of my queries.
 
 ### Files used
 * dvd-rental-erd-2.pdf - the schema for the DVD Rental database
